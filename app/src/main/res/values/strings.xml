@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alberts coole APP</string>
+    <string name="alberts_cooles_spiel">Alberts cooles Spiel!</string>
+    <string name="wer_spielt_mit">Wer spielt mit?</string>
+    <string name="name">Name</string>
+    <string name="spieler"></string>
+    <string name="spieler_hinzuf_gen">Spieler hinzufügen</string>
+    <string name="spieler_l_schen">Spieler löschen</string>
+    <string name="spielen">SPIELEN</string>
+    <string name="textview">TextView</string>
+</resources>
