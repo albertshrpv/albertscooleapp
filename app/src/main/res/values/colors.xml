@@ -7,5 +7,7 @@
     <color name="black">#000000</color>
     <color name="darkBlue">#0A082D</color>
     <color name="lighterBlue">#002037</color>
-    <color name="myStatusBarColor">#000420</color>
+    <color name="myColor">#002037</color>
+    <color name="myColorGame">#ff4081</color>
+    <color name="myColorVirus">#13c6db</color>
 </resources>

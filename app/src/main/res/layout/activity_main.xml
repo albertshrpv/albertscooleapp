@@ -126,6 +126,7 @@
         android:layout_marginStart="78dp"
         android:layout_marginTop="17dp"
         android:background="@color/colorAccent"
+        android:fadingEdge="none"
         android:text="@string/spielen"
         android:textColor="@android:color/white"
         android:textSize="30sp"

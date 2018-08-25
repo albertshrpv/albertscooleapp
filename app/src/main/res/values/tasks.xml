@@ -53,6 +53,8 @@
         <item>%1$s, verteil 3 Schlucke an einen jüngeren Spieler, wenn möglich, ansonsten trink sie selbst</item>
         <item>%1$s, verteil 3 Schlucke an einen älteren Spieler, wenn möglich, ansonsten trink sie selbst</item>
         <item>%1$s stinkt und trinkt deswegen einen Shot Pfeffi!</item>
+        <item>%1$s, verteil 5 Schlucke an die Person, die du am attraktivsten findest</item>
+        <item>%1$s, wenn du dieses Jahr schon mal krank warst, verteil 4 Schlucke, ansonsten trink sie selbst</item>
 
     </string-array>
     <string-array name="games">
@@ -68,7 +70,7 @@
         <item>Lieber jeden Tag dieselben Socken oder jeden Tag dasselbe T-Shirt tragen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
         <item>Lieber lebenslang auf Pizza oder auf Nudeln verzichten? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
         <item>Lieber für immer die Wahrheit sagen müssen oder für immer lügen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber lieber lebenslang Kleidung tragen, die zwei Nummern zu groß oder zwei Nummern zu klein ist? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
+        <item>Lieber lebenslang Kleidung tragen, die zwei Nummern zu groß oder zwei Nummern zu klein ist? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
         <item>Lieber für immer in einer Großstadt oder für immer auf dem Land leben? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
         <item>Lieber nie mehr deine Lieblings-App nutzen können oder nie mehr deine Lieblingsserie sehen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
         <item>Lieber in der Zukunft wiedergeboren werden oder in der Vergangenheit? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
