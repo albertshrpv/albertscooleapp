@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Alberts coole APP</string>
-    <string name="alberts_cooles_spiel">Alberts cooles Spiel!</string>
+    <string name="app_name">Drink or Die</string>
+    <string name="alberts_cooles_spiel">DRINK OR DIE</string>
     <string name="wer_spielt_mit">Wer spielt mit?</string>
     <string name="name">Name</string>
     <string name="spieler"></string>
