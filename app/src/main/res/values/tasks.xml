@@ -1,140 +1,202 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="simpleTasks">
-        <item>%1$s trinkt 5 Schlucke</item>
-        <item>Die letzte Person, die auf Toilette war, trinkt 3 Schlucke!</item>
-        <item>Der älteste Spieler trinkt 3 Schlucke</item>
+        <item>%1$s trinkt %4$s Schlucke</item>
+        <item>Die letzte Person, die auf Toilette war, trinkt %4$s Schlucke!</item>
+        <item>Der älteste Spieler trinkt %4$s Schlucke</item>
         <item>Wer aus der Runde keine blaue Jeans an hat, muss einen Shot trinken</item>
         <item>Wer im Monat März, Juni oder Dezember Geburtstag hat, muss einen Shot trinken</item>
         <item>%1$s ist emotional am Ende, weil die nächste Staffel der Lieblingsserie ewig auf sich warten lässt und beschließt deswegen sein/ihr Glas zu leeren</item>
-        <item>%1$s küsst seinen rechten Nachbarn oder trinkt 4 Schlucke</item>
+        <item>%1$s küsst seinen rechten Nachbarn oder trinkt %4$s Schlucke</item>
         <item>%1$s schickt an seinen zweiten Whatsapp-Chat nur die Worte \'ich liebe dich\' oder trinkt sein/ihr Glas aus</item>
-        <item>%1$s und %2$s machen zusammen ein Selfie und stellen es in ihre Story oder trinken ihre Gläser auf Ex</item>
-        <item>%1$s hat zu viel Star Wars geguckt und spricht nur noch wie Yoda, bis sein/ihr Glas leer ist</item>
-        <item>Aufrund der Flüchtlingskrise wird der Alkohol knapp, jede Verschwendung (auf Toilette gehen gehört dazu) wird mit einem Shot bestraft. Danke Merkel!</item>
-        <item>Zu Ehren der Queen trinken alle 2 Schlucke</item>
-        <item>Zu Ehren des heiligen Spaghettimonsters trinken alle 2 Schlucke</item>
+        <item>%1$s und %2$s machen zusammen ein Selfie und stellen es in ihre Story oder trinken ihre Gläser auf</item>
+        <item>Zu Ehren der Queen trinken alle %4$s Schlucke</item>
+        <item>Zu Ehren des heiligen Spaghettimonsters trinken alle %4$s Schlucke</item>
         <item>Tauscht einmal komplett reihum die Getränke jeweils mit dem linken Sitznachbarn</item>
-        <item>%1$s verteil 3 Schlucke an einen Spieler, der dicker ist als du, wenn möglich. Ansonsten trink sie selbst</item>
-        <item>Der Spieler, der von %1$s und %2$s am häufigsten mit jemandem Schluss gemacht hat, trinkt 5 Schlucke</item>
-        <item>"Jeder liest seine letzte gesendete Whatsapp Nachricht vor. %1$s beginnt</item>
-        <item>%1$s, du darfst nicht mehr aus deinem eigenen Glas trinken. Du musst jedes Mal das Glas einer anderen Person wählen</item>
-        <item>%1$s trinkt 3 Schlucke, wenn er/sie etwas weißes anhat, wenn nicht, verteilt er 3 Schlucke</item>
-        <item>Alle Personen, die bisher weniger getrunken haben als %1$s, trinken 3 Schlucke</item>
-        <item>%1$s sing ein Lied von Sido oder trink 2 Schlucke</item>
-        <item>%1$s sing ein Lied von Rihanna oder trink 3 Schlucke</item>
-        <item>%1$s sing ein Lied von Ariana Grande oder trink 2 Schlucke</item>
-        <item>%1$s sing ein Lied von Justin Bieber oder trink 3 Schlucke</item>
-        <item>%1$s trink 2 Schlucke, wenn du schon einmal einen Lehrer blöd angemacht hast, ansonsten verteil sie</item>
-        <item>Alle Personen über 1.75m trinken 3 Schlucke</item>
-        <item>Alle Personen unter 1.75m trinken 3 Schlucke</item>
-        <item>Wer von %1$s und %2$s legt den größten Wert auf seine/ihre Frisur? Justin Bieber trinkt 2 Schlucke</item>
-        <item>%1$s, nenne 3 Personen, die von mindestens einer Person in der Gruppe gehasst werden oder trink 4 Schlucke</item>
-        <item>%1$s, verteil 4 Schlucke an Spieler, die intelligenter sind als du, wenn möglich. Ansonsten trink sie selbst, Einstein</item>
-        <item>%1$s, wenn du bisher weniger als 2 Gläser getrunken hast, trink 3 Schlucke</item>
-        <item>Alle, die heute noch nicht geduscht haben, trinken 3 Schlucke</item>
+        <item>%1$s verteil %4$s Schlucke an einen Spieler, der dicker ist als du, wenn möglich. Ansonsten trink sie selbst</item>
+        <item>Der Spieler, der von %1$s und %2$s am häufigsten mit jemandem Schluss gemacht hat, trinkt %4$s Schlucke</item>
+        <item>%1$s trinkt 3 Schlucke, wenn er/sie etwas weißes anhat, wenn nicht, verteilt er %4$s Schlucke</item>
+        <item>Alle Personen, die bisher weniger getrunken haben als %1$s, trinken %4$s Schlucke</item>
+        <item>%1$s sing ein Lied von Sido oder trink %4$s Schlucke</item>
+        <item>%1$s sing ein Lied von Rihanna oder trink %4$s Schlucke</item>
+        <item>%1$s sing ein Lied von Ariana Grande oder trink %4$s Schlucke</item>
+        <item>%1$s sing ein Lied von Justin Bieber oder trink %4$s Schlucke</item>
+        <item>%1$s trink %4$s Schlucke, wenn du schon einmal einen Lehrer blöd angemacht hast, ansonsten verteil sie</item>
+        <item>Alle Personen über 1.75m trinken %4$s Schlucke</item>
+        <item>Alle Personen unter 1.75m trinken %4$s Schlucke</item>
+        <item>Wer von %1$s und %2$s legt den größten Wert auf seine/ihre Frisur? Justin Bieber trinkt %4$s Schlucke</item>
+        <item>%1$s, nenne %4$s Personen, die von mindestens einer Person in der Gruppe gehasst werden oder trink %4$s Schlucke</item>
+        <item>%1$s, verteil %4$s Schlucke an Spieler, die intelligenter sind als du, wenn möglich. Ansonsten, trink sie selbst, Einstein</item>
+        <item>%1$s, wenn du bisher weniger als 2 Gläser getrunken hast, trink %4$s Schlucke</item>
+        <item>Alle, die heute noch nicht geduscht haben, trinken %4$s Schlucke</item>
         <item>%1$s, wenn du ein Weibchen bist, trink so viele Schlucke, wie Männchen in der Gruppe sind, wenn nicht, verteil diese Anzahl</item>
-        <item>Alle, die nnoch nie drei Tage hintereinander die gleiche Uunterwäsche getragen haben, trinken 5 Schlucke</item>
-        <item>Alle, die noch nie eine Folge \'The Walking Dead\' gesehen haben, trinken 3 Schlucke</item>
-        <item>Alle, die noch nie eine Folge \'Vikings\' gesehen haben, trinken 3 Schlucke</item>
-        <item>Alle, die noch nie eine Folge \'House of Cards\' gesehen haben, trinken 3 Schlucke</item>
-        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s fühlt sich am wohlsten bei einem Karaoke-Abend? Die Castafiore verteilt 4 Schlucke</item>
-        <item>%1$s, nenne ein Accessoir. Alle, die dieses Objekt tragen, trinken 2 Schlucke</item>
-        <item>%1$s, mach einen Spagat oder trink 5 Schlucke</item>
-        <item>%1$s, wähle etwas, das du magst, alle Spieler, die das nicht mögen, trinken 5 Schlucke. Wenn niemand trinkt, trinkst du 2 Schlucke</item>
-        <item>Die Person, deren Glas am vollsten ist, trinkt 5 Schlucke</item>
-        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s verbirgt deiner Meinung nach am meisten Geheimnisse? Der Stumme trinkt 2 Schlucke</item>
-        <item>Alle, die in der letzten Woche eine Sendung auf \'RTL\' gesehen haben, trinken 4 Schlucke, ihr unkultivierten</item>
-        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s kann deiner Meinung nach  besser tanzen? Der Hüftenschwinger trinkt 3 Schlucke</item>
-        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s interessiert sich mehr für Gossip? Die Klatschtante trinkt 2 Schlucke</item>
+        <item>Alle, die nnoch nie drei Tage hintereinander die gleiche Uunterwäsche getragen haben, trinken %4$s Schlucke</item>
+        <item>Alle, die noch nie eine Folge \'The Walking Dead\' gesehen haben, trinken %4$s Schlucke</item>
+        <item>Alle, die noch nie eine Folge \'Vikings\' gesehen haben, trinken %4$s Schlucke</item>
+        <item>Alle, die noch nie eine Folge \'House of Cards\' gesehen haben, trinken %4$s Schlucke</item>
+        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s fühlt sich am wohlsten bei einem Karaoke-Abend? Die Castafiore verteilt %4$s Schlucke</item>
+        <item>%1$s, nenne ein Accessoir. Alle, die dieses Objekt tragen, trinken %4$s Schlucke</item>
+        <item>%1$s, mach einen Spagat oder trink %4$s Schlucke</item>
+        <item>%1$s, wähle etwas, das du magst, alle Spieler, die das nicht mögen, trinken 5 Schlucke. Wenn niemand trinkt, trinkst du %4$s Schlucke</item>
+        <item>Die Person, deren Glas am vollsten ist, trinkt %4$s Schlucke</item>
+        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s verbirgt deiner Meinung nach am meisten Geheimnisse? Der Stumme trinkt %4$s Schlucke</item>
+        <item>Alle, die in der letzten Woche eine Sendung auf \'RTL\' gesehen haben, trinken %4$s Schlucke, ihr unkultivierten</item>
+        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s kann deiner Meinung nach  besser tanzen? Der Hüftenschwinger trinkt %4$s Schlucke</item>
+        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s interessiert sich mehr für Gossip? Die Klatschtante trinkt %4$s Schlucke</item>
         <item>%1$s, schließe die Augen. Wenn du es schaffst von jeder Person am Tisch die richtige Oberteil-Farbe zu nennen, verteil 5 Schlucke, ansonsten trink sie selbst</item>
-        <item>%1$s, setze dich auf den Boden oder trinke 3 Schlucke</item>
-        <item>%1$s, du hast 3 Sekunden Zeit, um zu sagen,wie viele Personen sich genau im Raum befinden. Wenn du falsch liegst, trink 2 Schlucke, ansonsten verteil sie</item>
-        <item>%1$s, verteil 3 Schlucke an einen jüngeren Spieler, wenn möglich, ansonsten trink sie selbst</item>
-        <item>%1$s, verteil 3 Schlucke an einen älteren Spieler, wenn möglich, ansonsten trink sie selbst</item>
+        <item>%1$s, setze dich auf den Boden oder trinke %4$s Schlucke</item>
+        <item>%1$s, du hast 4 Sekunden Zeit, um zu sagen, wie viele Personen sich genau im Raum befinden. Wenn du falsch liegst, trink 2 Schlucke, ansonsten verteil sie</item>
+        <item>%1$s, verteil %4$s Schlucke an einen jüngeren Spieler, wenn möglich, ansonsten trink sie selbst</item>
+        <item>%1$s, verteil %4$s Schlucke an einen älteren Spieler, wenn möglich, ansonsten trink sie selbst</item>
         <item>%1$s stinkt und trinkt deswegen einen Shot Pfeffi!</item>
-        <item>%1$s, verteil 5 Schlucke an die Person, die du am attraktivsten findest</item>
-        <item>%1$s, wenn du dieses Jahr schon mal krank warst, verteil 4 Schlucke, ansonsten trink sie selbst</item>
+        <item>%1$s, verteil %4$s Schlucke an die Person, die du am attraktivsten findest</item>
+        <item>%1$s, wenn du dieses Jahr schon mal krank warst, verteil %4$s Schlucke, ansonsten trink sie selbst</item>
+        <item>Verteil %4$s Schlucke, wenn du schon einmal Sex hattest, obwohl deine Freunde im selben Raum geschlafen haben</item>
+        <item>%1$s, verteil so viele Schlucke, wie du Länder aufzählen kannst, die du schon mal besucht hast</item>
+        <item>Derjenige, der von %1$s und %2$s die größeren Hände hat trinkt %4$s Schlucke</item>
+        <item>Derjenige, der von %1$s und %2$s die größeren Füße hat trinkt %4$s Schlucke</item>
+        <item>%1$s, du musst entscheiden: wer von %2$s und %3$s ist geschickter beim Origami-basteln? Akira Yoshizawa trinkt 3 Schlucke</item>
+        <item>Duell zwischen %1$s und %2$s: stellt die Yoga-Figur Standwage nach! Die Gruppe entscheidet, wer\'s besser macht. Der Gewinner verteilt %4$s Schlucke </item>
+        <item>Duell zwischen %1$s und %2$s: stellt die Yoga-Figur Kranich nach! Die Gruppe entscheidet, wer\'s besser macht. Der Gewinner verteilt %4$s Schlucke</item>
+        <item>Duell zwischen %1$s und %2$s: Schere-Stein-Papier. Der Gewinner verteilt %4$s Schlucke</item>
+        <item>Duell zwischen %1$s und %2$s: Wer als Erstes einen Shot trinkt, darf einen Weiteren verteilen</item>
+        <item>Duell zwischen %1$s und %2$s: Wer als Erstes seine Schuhe auszieht, darf ein Shot verteilen</item>
+        <item>%1$s erzählt eine peinliche Geschichte über einen Mitspieler oder trinkt %4$s Schlucke</item>
+        <item>Der/Diejenige, mit den meisten Instagram-Followern trinkt %4$s Schlucke</item>
+        <item>Der/Diejenige, mit den meisten Instagram-Posts trinkt %4$s Schlucke</item>
+        <item>Die Person, welche als nächstes Geburtstag hat, trinkt %4$s Schlucke</item>
+        <item>Die Person, welche zuletzt Geburtstag hatte, verteilt %4$s Schlucke. Alles Gute nachträglich!</item>
+        <item>Thanos hat mit den Fingern geschnipst! Jeder Zweite muss einen Shot trinken, %1$s beginnt.</item>
+        <item>Der Winter ist da. Alle trinken %4$s Schlucke gegen die Kälte</item>
+        <item>Der/Die Spieler/in mit den längsten Haaren trinkt %4$s Schlucke</item>
+        <item>Der/Die Spieler/in mit den kürzesten Haaren trinkt %4$s Schlucke</item>
+
+
+
 
     </string-array>
     <string-array name="games">
         <item>Eine Runde \'Ich habe noch nie\' - %1$s beginnt</item>
+        <item>Eine Runde \'Wahrheit oder Pflicht\' - %1$s beginnt</item>
+        <item>Eine Runde \'Wahrheit oder Pflicht\' - %1$s beginnt</item>
         <item>Eine Runde \'ich hab noch nie\' - %1$s beginnt</item>
-        <item>Lieber ein Jahr in der Welt von Eis und Feuer oder im Star Wars Universum verbringen? Stimmt gleichzeitig ab, die Verlierer trinken 3 Schlucke</item>
-        <item>Lieber Gedanken lesen können oder sich unsichtbar machen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber eine Woche lang kein Fernsehen oder kein Internet haben? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber einen Harry Potter-Marathon oder einen Herr der Ringe-Marathon schauen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber ein Superheld oder ein Bösewicht sein? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber deinen Schlüssel oder dein Handy verlieren? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber mit jemandem verheiratet sein, den du nicht liebst, oder der dich nicht liebt? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber jeden Tag dieselben Socken oder jeden Tag dasselbe T-Shirt tragen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber lebenslang auf Pizza oder auf Nudeln verzichten? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber für immer die Wahrheit sagen müssen oder für immer lügen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber lebenslang Kleidung tragen, die zwei Nummern zu groß oder zwei Nummern zu klein ist? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber für immer in einer Großstadt oder für immer auf dem Land leben? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber nie mehr deine Lieblings-App nutzen können oder nie mehr deine Lieblingsserie sehen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber in der Zukunft wiedergeboren werden oder in der Vergangenheit? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber fliegen oder zeitreisen können? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber nie mehr Salz benutzen oder alles zu stark gesalzen essen müssen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber für immer erst 12 Uhr mittags oder schon um 6 Uhr morgens aufstehen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber für immer auf Fleisch oder für immer auf Gemüse verzichten? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber dein Leben lang hungrig oder dein Leben lang müde sein? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber für immer auf Filme oder für immer auf Musik verzichten? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber ein toller Künstler oder ein begabter Wissenschaftler sein? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber bis zum Ende deines Lebens im Gefängnis sitzen oder sofort hingerichtet werden? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber nie wieder sprechen oder nie wieder sehen können? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber irgendwo leben, wo es nie wieder Tag wird, oder wo es nie wieder Nacht wird? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber für immer auf den Winter oder für immer auf den Sommer verzichten? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber mit 10 anderen Menschen in einer Wohnung leben oder für immer allein? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber für immer auf Süßes oder für immer auf Fast Food verzichten? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber dein Heimatland nie mehr verlassen oder nie mehr in dein Heimatland zurückkehren können? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber über den Flur eines Krankenhauses oder einem über den Hintern lecken? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber 1000€ im Monat kriegen aber nicht arbeiten dürfen, oder 20 000€ Im Monat für einen 40h Job kriegen? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber deine Zähne nur einmal im Jahr putzen oder deine Haare nur einmal im Jahr waschen können? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber nie wieder das Meer oder nie mehr die Berge sehen können? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Lieber nach einem Drink betrunken sein oder nie mehr betrunken werden, egal wie viel Alkohol du trinkst? Stimmt gleichzeitig ab, die Verlierer trinken 4 Schlucke</item>
-        <item>Jeder liest seine letzte gesendete Whatsapp Nachricht vor, %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Lieber ein Jahr in der Welt von Eis und Feuer oder im Star Wars Universum verbringen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber Gedanken lesen können oder sich unsichtbar machen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber eine Woche lang kein Fernsehen oder kein Internet haben? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber einen Harry Potter-Marathon oder einen Herr der Ringe-Marathon schauen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber ein Superheld oder ein Bösewicht sein? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber deinen Schlüssel oder dein Handy verlieren? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber mit jemandem verheiratet sein, den du nicht liebst, oder der dich nicht liebt? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber jeden Tag dieselben Socken oder jeden Tag dasselbe T-Shirt tragen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber lebenslang auf Pizza oder auf Nudeln verzichten? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber für immer die Wahrheit sagen müssen oder für immer lügen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber lebenslang Kleidung tragen, die zwei Nummern zu groß oder zwei Nummern zu klein ist? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber für immer in einer Großstadt oder für immer auf dem Land leben? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber nie mehr deine Lieblings-App nutzen können oder nie mehr deine Lieblingsserie sehen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber in der Zukunft wiedergeboren werden oder in der Vergangenheit? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber fliegen oder zeitreisen können? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber nie mehr Salz benutzen oder alles zu stark gesalzen essen müssen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber für immer erst 12 Uhr mittags oder schon um 6 Uhr morgens aufstehen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber für immer auf Fleisch oder für immer auf Gemüse verzichten? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber dein Leben lang hungrig oder dein Leben lang müde sein? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber für immer auf Filme oder für immer auf Musik verzichten? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber ein toller Künstler oder ein begabter Wissenschaftler sein? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber bis zum Ende deines Lebens im Gefängnis sitzen oder sofort hingerichtet werden? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber nie wieder sprechen oder nie wieder sehen können? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber irgendwo leben, wo es nie wieder Tag wird, oder wo es nie wieder Nacht wird? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber für immer auf den Winter oder für immer auf den Sommer verzichten? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber mit 10 anderen Menschen in einer Wohnung leben oder für immer allein? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber für immer auf Süßes oder für immer auf Fast Food verzichten? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber dein Heimatland nie mehr verlassen oder nie mehr in dein Heimatland zurückkehren können? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber über den Flur eines Krankenhauses oder einem über den Hintern lecken? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber 1000€ im Monat kriegen aber nicht arbeiten dürfen, oder 20 000€ Im Monat für einen 40h Job kriegen? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber deine Zähne nur einmal im Jahr putzen oder deine Haare nur einmal im Jahr waschen können? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber nie wieder das Meer oder nie mehr die Berge sehen können? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Lieber nach einem Drink betrunken sein oder nie mehr betrunken werden, egal wie viel Alkohol du trinkst? Stimmt gleichzeitig ab, die Verlierer trinken %4$s Schlucke</item>
+        <item>Jeder liest seine letzte gesendete Whatsapp Nachricht vor, %1$s beginnt. Wer sich weigert trinkt %4$s Schlucke</item>
+        <item>Die erste Person, die etwas Weißes findet, verteilt %4$s Schlucke</item>
+        <item>Die erste Person, die etwas Schwarzes findet, verteilt %4$s Schlucke</item>
+        <item>Die erste Person, die etwas Pinkes findet, verteilt %4$s Schlucke</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Dinge, die rosa sind\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Social Networks\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Dinge, die man während des telefonieren tun kann\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Alkoholsorten\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Sportmarken\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Sitcoms\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Fantasy-Serien\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Häuser in Game of Thrones\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Chraktere aus Star Wars\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Chips-Geschmacksrichtungen\', %1$s beginnt</item>
-        <item>Themenspiel und 3 Schlucke für den Verlierer:
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
             \'Tote Game of Thrones Charaktere\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Lieder von Justin Bieber\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Lieder von SIA oder David Guetta\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Lieder von Flo Rida oder Avicii\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Deutsche Sauflieder\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'US-Präsidenten\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Währungen\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'DC-Superhelden\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Marvel-Superhelden\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'DC-Bösewichte\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Marvel-Bösewichte\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Superhelden-Darsteller\', %1$s beginnt</item>
+        <item>Themenspiel und %4$s Schlucke für den Verlierer:
+            \'Horrorfilme\', %1$s beginnt</item>
+
+
 
 
     </string-array>
     <string-array name="viruses">
         <item>%1$s und %2$s sind beste Freunde und gehen zusammen durch dick und dünn. Jedesmal wenn eine Person was trinkt, muss die Andere es ihr gleich tun!</item>
-        <item></item>
         <item>Ihr müsst jetzt immer die Zeichensetzung laut aussprechen (Bspl.: \'du bist dran Punkt\')</item>
-        <item></item>
         <item>%1$s, du musst jede Frage mit einer Gegenfrage beantworten. Trink bei jedem Fehler!</item>
-        <item></item>
         <item>%1$s muss jetzt jede Frage verneinen und sich jedes Mal einen neuen Grund dafür ausdenken!</item>
-        <item></item>
         <item>%1$s ist jetzt der Barkeeper. Gläser werden nur noch von ihm nach eigenem Ermessen aufgefüllt!</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>%1$s, du darfst nicht mehr aus deinem eigenen Glas trinken. Du musst jedes Mal das Glas einer anderen Person wählen</item>
+        <item>Aufrund der Flüchtlingskrise wird der Alkohol knapp, jede Verschwendung (auf Toilette gehen gehört dazu) wird mit einem Shot bestraft. Danke Merkel!</item>
+        <item>%1$s hat zu viel Star Wars geguckt und spricht nur noch wie Yoda</item>
+
+
+
 
     </string-array>
+
+    <string-array name="solutions">
+        <item>%1$s und %2$s brauchen nicht mehr das gleiche trinken!</item>
+        <item>Ihr müsst nicht mehr die Zeichensetzung laut aussprechen!</item>
+        <item>%1$s muss nicht mehr jede Frage mit einer Gegenfrage beantworten</item>
+        <item>%1$s muss nicht mehr jede Frage verneinen!</item>
+        <item>%1$s ist nicht mehr der Barkeeper!</item>
+        <item>%1$s darf wieder aus dem eigenen Glas trinken!</item>
+        <item>Die Flüchtlingskrise ist vorbei! Alkoholverschwendung wird nicht mehr geahndet!</item>
+        <item>%1$s kann wieder normal sprechen!</item>
+
+
+
+
+    </string-array>
+
+
 </resources>
