@@ -1,4 +1,4 @@
-package com.example.alber.albertscooleapp;
+package de.example.alber.drinkordie;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.alber.albertscooleapp">
+    package="de.albert.drinkordie">
 
     <application
         android:allowBackup="true"
@@ -11,9 +11,9 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:windowSoftInputMode="adjustPan"
             android:configChanges="orientation"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,10 +25,25 @@
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name=".MainActivity2"
+        <activity
+            android:name=".MainActivity2"
             android:configChanges="orientation"
-            android:screenOrientation="landscape">
-        </activity>
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".EndScreen"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".SelectGameMode"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".hardcoreMode"
+            android:screenOrientation="landscape"/>
+
+        <activity
+            android:name=".NieMode"
+            android:screenOrientation="landscape"/>
     </application>
 
 </manifest>

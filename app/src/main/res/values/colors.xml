@@ -10,4 +10,8 @@
     <color name="myColor">#002037</color>
     <color name="myColorGame">#ff4081</color>
     <color name="myColorStrike">#13c6db</color>
+    <color name="myColorQuiz">#488cf9</color>
+    <color name="myColorShot">#9232ff</color>
+    <color name="myColorDuell">#ff8c28</color>
+    <color name="myColorNieMode">#330441</color>
 </resources>

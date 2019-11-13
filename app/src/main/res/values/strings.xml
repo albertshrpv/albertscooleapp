@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Drink or Die</string>
+    <string name="app_name">Drink-King</string>
     <string name="alberts_cooles_spiel">DRINK OR DIE</string>
     <string name="wer_spielt_mit">Wer spielt mit?</string>
     <string name="name">Name</string>
@@ -9,4 +9,15 @@
     <string name="spielen">SPIELEN</string>
     <string name="textview">TextView</string>
     <string name="todo">TODO</string>
+    <string name="spiel_beendet">Spiel beendet.</string>
+    <string name="erneut_spielen">Erneut spielen</string>
+    <string name="spieler_bearbeiten">Spieler bearbeiten</string>
+    <string name="spielmodus_wählen">Spielmodus\nwählen</string>
+    <string name="hardcore">HARDCORE</string>
+    <string name="normal">NORMAL</string>
+    <string name="nie">ICH HAB NOCH NIE</string>
+    <string name="Hardcore">Hardcore</string>
+    <string name="DrinkKing">Drink-King</string>
+
+
 </resources>
